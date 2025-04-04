@@ -50,7 +50,7 @@ DISCORD_TOKEN=your_token_here
   ![Bot Profile](Kyoku!!.png)
 
 - **Queueing Songs & Playback**
-  ![Commands in Action](Kyoku_commands.png)
+  ![Commands in Action](Kyoku_Commands.png)
 
 - **Embedded Song Queue**
   ![Queue Display](Kyoku_Functions.png)
