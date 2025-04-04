@@ -50,10 +50,10 @@ DISCORD_TOKEN=your_token_here
   ![Bot Profile](Kyoku!!.png)
 
 - **Queueing Songs & Playback**
-  ![Commands in Action](Kyoku_Commands.png)
+  ![Commands in Action](KyokuCommands.png)
 
 - **Embedded Song Queue**
-  ![Queue Display](Kyoku_Functions.png)
+  ![Queue Display](KyokuFunctions.png)
 
 ## 📚 Inspiration
 This project started in 2021 when musicbots were dissapering as a way to explore Discord bots, music streaming APIs and build a tool so friends could vibe with. It became my first bot that felt alive and rare at the time queueing bangers and keeping the server lit.
