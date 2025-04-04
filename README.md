@@ -44,9 +44,16 @@ Make sure you have `ffmpeg` installed and set your token in a `.env` file:
 DISCORD_TOKEN=your_token_here
 ```
 
-## 🚀 Showcase
-![Queue Screenshot](media/queue_sample.png)
-![Playing Screenshot](media/playing_now.png)
+### 📸 Media
+
+- **Kyoku Bot Profile & Commands**
+  ![Bot Profile](kyoku_profile.png)
+
+- **Queueing Songs & Playback**
+  ![Commands in Action](kyoku_commands.png)
+
+- **Embedded Song Queue**
+  ![Queue Display](kyoku_queue_embed.png)
 
 ## 📚 Inspiration
 This project started in 2021 when musicbots were dissapering as a way to explore Discord bots, music streaming APIs and build a tool so friends could vibe with. It became my first bot that felt alive and rare at the time queueing bangers and keeping the server lit.
