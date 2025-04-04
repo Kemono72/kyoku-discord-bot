@@ -58,9 +58,8 @@ DISCORD_TOKEN=your_token_here
 ## 📚 Inspiration
 This project started in 2021 when musicbots were dissapering as a way to explore Discord bots, music streaming APIs and build a tool so friends could vibe with. It became my first bot that felt alive and rare at the time queueing bangers and keeping the server lit.
 
-## ⚖️ License
-MIT License
+## 📝 License
+This project is licensed under the [MIT License](LICENSE).
 
----
 
 💻 Built by [@Kemono72](https://github.com/Kemono72) for fun, vibes and curiosity.
